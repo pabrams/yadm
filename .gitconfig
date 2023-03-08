@@ -1,0 +1,5 @@
+[user]
+	email = john.paul.abrams@gmail.com
+	name = Paul Abrams
+[credential]
+	helper = cache --timeout 7200
