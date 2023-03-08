@@ -1,0 +1,14 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+eDP1 HDMI1 Height 1920x1080 HDMI1=616
+eDP1 HDMI1 Width 1920x1080 HDMI1=439
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled

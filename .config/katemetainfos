@@ -1,0 +1,59 @@
+[file:///home/i/.config/aconfmgr/.env]
+Bookmarks=
+Checksum=19b9e8c705a4562fde46082e9bfd55db02998f46
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,8,5,31,48.717
+URL=file:///home/i/.config/aconfmgr/.env
+
+[file:///home/i/.config/aconfmgr/.gitignore]
+Bookmarks=
+Checksum=4c49bd78f1d08f2bc09fa0bd8191ed38b7dce5e3
+Encoding=UTF-8
+Highlighting=Git Ignore
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Git Ignore
+Mode Set By User=false
+Time=2023,3,8,5,32,1.17
+URL=file:///home/i/.config/aconfmgr/.gitignore
+
+[file:///home/i/.config/aconfmgr/10-ignores.sh]
+Bookmarks=
+Checksum=c0218b945ac31361444c56baff24505eab09a995
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,3,8,5,19,18.424
+URL=file:///home/i/.config/aconfmgr/10-ignores.sh
+
+[file:///home/i/.config/aconfmgr/files/efi/EFI/systemd/systemd-bootx64.efi]
+Bookmarks=
+Checksum=bb9600ddf769030c9dfcaf77bbf012475b3e015d
+Encoding=ISO-8859-15
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,8,5,7,15.501
+URL=file:///home/i/.config/aconfmgr/files/efi/EFI/systemd/systemd-bootx64.efi
+
+[file:///home/i/.config/aconfmgr/files/efi/loader/loader.conf]
+Bookmarks=
+Checksum=54ff24e45600c0065c6b479a3963e838b189bfca
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,8,5,7,55.91
+URL=file:///home/i/.config/aconfmgr/files/efi/loader/loader.conf
