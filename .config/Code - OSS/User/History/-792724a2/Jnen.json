@@ -1,0 +1,45 @@
+{
+    "name": "trade-wars-2002-color-theme",
+    "displayName": "Trade Wars 2002 Color Theme",
+    "description": "Trade Wars 2002 Color Theme",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Trade Wars 2002 Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Trade Wars 2002 Color Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/tradewars2002.png",
+    "author": {
+        "name": "Paul Abrams",
+        "email": "john.paul.abrams@gmail.com",
+        "url": "https://pabrams.github.io/"
+    },
+    "repository": {
+        "url": "https://github.com/pabrams/Tradewars2002-theme-VS",
+        "type": "git"
+    },
+    "publisher": "paulabrams1",
+    "devDependencies": {
+        "vsce": "^2.14.0"
+    },
+    "scripts": {
+        "build": "vsce package",
+        "node": "^16"
+    },
+    "dependencies": {
+    },
+    "vsce": {
+        "dependencies": true,
+        "yarn": false
+    }
+}

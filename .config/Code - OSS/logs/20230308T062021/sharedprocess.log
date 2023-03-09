@@ -1,0 +1,95 @@
+2023-03-08 06:20:24.120 [info] Started initializing default profile extensions in extensions installation folder. file:///home/i/.vscode-oss/extensions
+2023-03-08 06:20:24.471 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/i/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/i/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-03-08 06:20:24.472 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/i/.vscode-oss/extensions
+2023-03-08 06:20:25.144 [info] Starting worker process with pid 197474 (type: fileWatcher, window: 1).
+2023-03-08 06:32:21.268 [info] Starting worker process with pid 197761 (type: fileWatcher, window: 3).
+2023-03-08 06:51:34.088 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 06:51:34.907 [info] Extracted extension to /home/i/.vscode-oss/extensions/.d4c6e6ba-ce86-45e2-ab10-9b7859067b12: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 06:51:34.926 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 06:51:34.937 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 06:51:34.955 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:02:27.872 [info] Starting worker process with pid 206498 (type: fileWatcher, window: 4).
+2023-03-08 07:02:39.075 [info] Worker process with pid 206498 terminated normally (type: fileWatcher, window: 4).
+2023-03-08 07:14:21.224 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:14:31.672 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:14:31.709 [info] Extracted extension to /home/i/.vscode-oss/extensions/.19b747e5-aee5-4ee3-8192-8af713ef4617: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:14:31.723 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:14:31.725 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:14:31.745 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:14:34.556 [info] Worker process with pid 197761 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 07:14:36.495 [info] Starting worker process with pid 206802 (type: fileWatcher, window: 3).
+2023-03-08 07:19:58.278 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:20:14.492 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:20:14.611 [info] Extracted extension to /home/i/.vscode-oss/extensions/.15035446-9f58-4ce6-bb5f-643207e5b370: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:20:14.616 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:20:14.618 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:20:14.628 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:20:17.219 [info] Worker process with pid 206802 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 07:20:19.103 [info] Starting worker process with pid 207053 (type: fileWatcher, window: 3).
+2023-03-08 07:24:24.726 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:24:25.175 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:24:25.230 [info] Extracted extension to /home/i/.vscode-oss/extensions/.4f4060ff-2882-4158-b698-87c1526309b3: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:24:25.244 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:24:25.248 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:24:25.271 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:24:30.894 [info] Worker process with pid 207053 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 07:24:32.949 [info] Starting worker process with pid 207299 (type: fileWatcher, window: 3).
+2023-03-08 07:34:41.477 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:34:42.058 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:34:42.115 [info] Extracted extension to /home/i/.vscode-oss/extensions/.59851d5e-4a4b-493a-b289-32fdf9739fc2: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:34:42.129 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 07:34:42.131 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:34:42.159 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 07:34:44.863 [info] Worker process with pid 207299 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 07:34:46.786 [info] Starting worker process with pid 207730 (type: fileWatcher, window: 3).
+2023-03-08 19:00:02.087 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-08 22:57:12.103 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-08 23:08:09.647 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:08:10.182 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:08:10.213 [info] Extracted extension to /home/i/.vscode-oss/extensions/.106df5d6-5390-4ffc-8e45-89443c1b36cb: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:08:10.225 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:08:10.235 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:08:10.294 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:08:13.257 [info] Worker process with pid 207730 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:08:14.952 [info] Starting worker process with pid 209491 (type: fileWatcher, window: 3).
+2023-03-08 23:18:04.161 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:18:04.508 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:18:04.547 [info] Extracted extension to /home/i/.vscode-oss/extensions/.51d4f78d-d1bd-43c3-9d62-36d099f93f36: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:18:04.558 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:18:04.559 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:18:04.575 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:18:11.157 [info] Worker process with pid 209491 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:18:12.666 [info] Starting worker process with pid 210134 (type: fileWatcher, window: 3).
+2023-03-08 23:21:58.254 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:21:58.720 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:21:58.778 [info] Extracted extension to /home/i/.vscode-oss/extensions/.b0551034-58e4-41be-ae12-cf46c88e6c07: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:21:58.793 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:21:58.794 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:21:58.807 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:22:00.741 [info] Worker process with pid 210134 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:22:02.126 [info] Starting worker process with pid 210455 (type: fileWatcher, window: 3).
+2023-03-08 23:26:20.977 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:26:21.363 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:26:21.409 [info] Extracted extension to /home/i/.vscode-oss/extensions/.f6d7f421-89ea-4529-a9f8-f4b257e3ac14: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:26:21.416 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:26:21.418 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:26:21.430 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:26:23.606 [info] Worker process with pid 210455 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:26:25.089 [info] Starting worker process with pid 210710 (type: fileWatcher, window: 3).
+2023-03-08 23:28:09.330 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:28:09.726 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:28:09.762 [info] Extracted extension to /home/i/.vscode-oss/extensions/.88d66b66-e628-42bc-b08a-04b31c4c3458: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:28:09.779 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:28:09.787 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:28:09.801 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:28:12.909 [info] Worker process with pid 210710 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:28:14.207 [info] Starting worker process with pid 210910 (type: fileWatcher, window: 3).
+2023-03-08 23:31:00.826 [info] Installing extension: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:31:01.210 [info] Deleted from disk paulabrams1.trade-wars-2002-color-theme /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:31:01.246 [info] Extracted extension to /home/i/.vscode-oss/extensions/.055a96e0-448e-41e0-b0c1-883edb0350fe: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:31:01.259 [info] Renamed to /home/i/.vscode-oss/extensions/paulabrams1.trade-wars-2002-color-theme-1.0.0
+2023-03-08 23:31:01.261 [info] Extracting extension completed. paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:31:01.270 [info] Extension installed successfully: paulabrams1.trade-wars-2002-color-theme
+2023-03-08 23:31:03.634 [info] Worker process with pid 210910 terminated normally (type: fileWatcher, window: 3).
+2023-03-08 23:31:05.112 [info] Starting worker process with pid 211139 (type: fileWatcher, window: 3).
+2023-03-09 00:37:17.248 [warning] No ptyHost heartbeat after 6 seconds

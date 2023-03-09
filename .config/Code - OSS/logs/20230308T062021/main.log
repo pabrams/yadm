@@ -1,0 +1,25 @@
+2023-03-08 06:20:21.679 [info] update#ctor - updates are disabled as there is no update URL
+2023-03-08 06:20:23.347 [info] Starting extension host with pid 197423 (fork() took 20 ms).
+2023-03-08 06:32:21.265 [info] Starting extension host with pid 197762 (fork() took 19 ms).
+2023-03-08 07:02:27.943 [info] Starting extension host with pid 206500 (fork() took 34 ms).
+2023-03-08 07:02:39.109 [info] Extension host with pid 206500 exited with code: 0, signal: null.
+2023-03-08 07:14:34.594 [info] Extension host with pid 197762 exited with code: 0, signal: null.
+2023-03-08 07:14:36.273 [info] Starting extension host with pid 206794 (fork() took 10 ms).
+2023-03-08 07:20:17.254 [info] Extension host with pid 206794 exited with code: 0, signal: null.
+2023-03-08 07:20:18.889 [info] Starting extension host with pid 207045 (fork() took 9 ms).
+2023-03-08 07:24:30.913 [info] Extension host with pid 207045 exited with code: 0, signal: null.
+2023-03-08 07:24:32.556 [info] Starting extension host with pid 207287 (fork() took 10 ms).
+2023-03-08 07:34:44.881 [info] Extension host with pid 207287 exited with code: 0, signal: null.
+2023-03-08 07:34:46.475 [info] Starting extension host with pid 207718 (fork() took 10 ms).
+2023-03-08 23:08:13.290 [info] Extension host with pid 207718 exited with code: 0, signal: null.
+2023-03-08 23:08:14.750 [info] Starting extension host with pid 209483 (fork() took 7 ms).
+2023-03-08 23:18:11.168 [info] Extension host with pid 209483 exited with code: 0, signal: null.
+2023-03-08 23:18:12.456 [info] Starting extension host with pid 210126 (fork() took 7 ms).
+2023-03-08 23:22:00.760 [info] Extension host with pid 210126 exited with code: 0, signal: null.
+2023-03-08 23:22:02.014 [info] Starting extension host with pid 210447 (fork() took 8 ms).
+2023-03-08 23:26:23.624 [info] Extension host with pid 210447 exited with code: 0, signal: null.
+2023-03-08 23:26:24.893 [info] Starting extension host with pid 210702 (fork() took 7 ms).
+2023-03-08 23:28:12.947 [info] Extension host with pid 210702 exited with code: 0, signal: null.
+2023-03-08 23:28:14.127 [info] Starting extension host with pid 210902 (fork() took 8 ms).
+2023-03-08 23:31:03.645 [info] Extension host with pid 210902 exited with code: 0, signal: null.
+2023-03-08 23:31:04.938 [info] Starting extension host with pid 211131 (fork() took 7 ms).
