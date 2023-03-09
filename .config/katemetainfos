@@ -34,6 +34,30 @@ Mode Set By User=false
 Time=2023,3,8,5,19,18.424
 URL=file:///home/i/.config/aconfmgr/10-ignores.sh
 
+[file:///home/i/.config/aconfmgr/99-unsorted.sh]
+Bookmarks=
+Checksum=00450e61bde002898b75ddcbe9951f1e533ad3ff
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,3,9,13,9,34.287
+URL=file:///home/i/.config/aconfmgr/99-unsorted.sh
+
+[file:///home/i/.config/aconfmgr/README.md]
+Bookmarks=
+Checksum=458c342961d446cecc0a3562ca2f9b83e843bf40
+Encoding=UTF-8
+Highlighting=Markdown
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Markdown
+Mode Set By User=false
+Time=2023,3,9,13,9,34.287
+URL=file:///home/i/.config/aconfmgr/README.md
+
 [file:///home/i/.config/aconfmgr/files/efi/EFI/systemd/systemd-bootx64.efi]
 Bookmarks=
 Checksum=bb9600ddf769030c9dfcaf77bbf012475b3e015d
@@ -57,3 +81,15 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,3,8,5,7,55.91
 URL=file:///home/i/.config/aconfmgr/files/efi/loader/loader.conf
+
+[file:///home/i/.yadm-README.md]
+Bookmarks=
+Checksum=90a2fb1e44934118e17e01d9ea2b9dca206be8b5
+Encoding=UTF-8
+Highlighting=Markdown
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Markdown
+Mode Set By User=false
+Time=2023,3,9,13,9,34.287
+URL=file:///home/i/.yadm-README.md

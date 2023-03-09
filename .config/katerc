@@ -124,6 +124,8 @@ Word Completion Remove Tail=true
 [MainWindow]
 eDP1 HDMI1 Height 1920x1080 HDMI1=767
 eDP1 HDMI1 Width 1920x1080 HDMI1=1244
+eDP1 Height 1920x1080 eDP1=767
+eDP1 Width 1920x1080 eDP1=1245
 
 [filetree]
 editShade=74,55,117

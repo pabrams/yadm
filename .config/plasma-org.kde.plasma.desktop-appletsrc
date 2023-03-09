@@ -95,7 +95,7 @@ previews=false
 activityId=
 formfactor=2
 immutability=1
-lastScreen=-1
+lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
 popupHeight=432
@@ -152,7 +152,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][22][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][8][Applets][23]
 immutability=1

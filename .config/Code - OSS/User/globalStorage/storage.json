@@ -5,21 +5,20 @@
             "file:///home/i/.config/aconfmgr": "__default__profile__",
             "file:///home/i/repos/trade-wars-2002-color-theme": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1678367013299": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "d5b354424fda2062eb14fa77d4db02d9f2b432e8d758442b9725faefa0a42f2c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///home/i/.config/aconfmgr"
-            },
-            {
-                "folderUri": "file:///home/i/repos/trade-wars-2002-color-theme"
+                "backupFolder": "1678367013299"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -94,6 +93,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/i/.zshrc",
+                                        "path": "/home/i/.zshrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.zshrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/i/.gitignore",
                                         "path": "/home/i/.gitignore",
                                         "scheme": "file"
@@ -157,13 +167,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -289,10 +292,6 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
-                    },
-                    {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -488,8 +487,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -507,8 +505,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -965,7 +962,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1061,7 +1059,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1244,11 +1243,6 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1641,19 +1635,18 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 255,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/i/repos/trade-wars-2002-color-theme",
-            "backupPath": "/home/i/.config/Code - OSS/Backups/d68b0a2329b88580c6e45ca00a7dae98",
+            "backupPath": "/home/i/.config/Code - OSS/Backups/1678367013299",
             "uiState": {
                 "mode": 1,
-                "x": 255,
-                "y": 146,
+                "x": 254,
+                "y": 175,
                 "width": 1024,
                 "height": 768
             }
@@ -1667,29 +1660,6 @@
                 "height": 768
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/i/.config/aconfmgr",
-                "backupPath": "/home/i/.config/Code - OSS/Backups/7f8a15fc5fbf7e8649d3c7373a5f2ee3",
-                "uiState": {
-                    "mode": 1,
-                    "x": 448,
-                    "y": 185,
-                    "width": 1024,
-                    "height": 768
-                }
-            },
-            {
-                "folder": "file:///home/i/repos/trade-wars-2002-color-theme",
-                "backupPath": "/home/i/.config/Code - OSS/Backups/d68b0a2329b88580c6e45ca00a7dae98",
-                "uiState": {
-                    "mode": 1,
-                    "x": 255,
-                    "y": 146,
-                    "width": 1024,
-                    "height": 768
-                }
-            }
-        ]
+        "openedWindows": []
     }
 }
