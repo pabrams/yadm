@@ -8,13 +8,56 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="random"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
 # If set to an empty array, this variable will have no effect.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+
+ZSH_THEME_RANDOM_CANDIDATES=(
+  "lambda "
+  "agnoster"
+  "aussiegeek"
+  "awesomepanda"
+  "bira"
+  "blinks"
+  "clean"
+  "cloud"
+  "crcandy"
+  "dallas"
+  "darkblood"
+  "daveverwer"
+  "dogenpunk"
+  "dst"
+  "edvardm"
+  "fino-time"
+  "fino"
+  "fletcherm"
+  "fox"
+  "funky"
+  "fwalch"
+  "garyblessington"
+  "gentoo"
+  "gnzh"
+  "half-life"
+  "humza"
+  "intheloop"
+  "jaischeema"
+  "jbergantine"
+  "jispwoso"
+  "jnrowe"
+  "jonathan"
+  "juanghurtado"
+  "junkfood"
+  "kafeitu"
+  "kpoen"
+  "linuxonly"
+  "nebirhos"
+  "norm"
+  "obraun"
+)
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -70,7 +113,10 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+    git
+
+)
 
 source $ZSH/oh-my-zsh.sh
 

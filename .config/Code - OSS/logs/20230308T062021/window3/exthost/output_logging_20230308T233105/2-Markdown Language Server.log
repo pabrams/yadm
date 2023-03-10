@@ -1,9 +1,0 @@
-[Trace 04:34:42.741] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Trace 04:34:42.742] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Trace 04:34:42.746] Server: connection.languages.diagnostics.on: file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Trace 04:34:42.750] Server: connection.languages.diagnostics.on: file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Trace 04:34:42.864] DocumentSymbolProvider: provideDocumentSymbols — file:///home/i/repos/trade-wars-2002-color-theme/README.md 1
-[Debug 04:34:42.864] LinkProvider: compute - file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Debug 04:34:42.996] TableOfContentsProvider: create - file:///home/i/repos/trade-wars-2002-color-theme/README.md
-[Debug 04:34:42.997] MdFoldingProvider: provideFoldingRanges — file:///home/i/repos/trade-wars-2002-color-theme/README.md 1
-[Trace 04:37:06.690] Server: connection.languages.diagnostics.on: file:///home/i/repos/trade-wars-2002-color-theme/README.md

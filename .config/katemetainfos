@@ -7,7 +7,7 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,3,8,5,31,48.717
+Time=2023,3,10,0,1,1.5899999999999999
 URL=file:///home/i/.config/aconfmgr/.env
 
 [file:///home/i/.config/aconfmgr/.gitignore]
@@ -93,3 +93,15 @@ Mode=Markdown
 Mode Set By User=false
 Time=2023,3,9,13,9,34.287
 URL=file:///home/i/.yadm-README.md
+
+[file:///home/i/.zshrc]
+Bookmarks=
+Checksum=386c0896efab37612f704525d8f258e63fbf97da
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2023,3,10,0,1,1.5899999999999999
+URL=file:///home/i/.zshrc
