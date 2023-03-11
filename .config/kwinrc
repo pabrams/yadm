@@ -10,7 +10,7 @@ Rows=1
 padding=4
 
 [Tiling][0d3998b5-12fb-5e5d-9844-298a9a2f96a3]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.25},{"width":0.25},{"width":0.25}]}
 
 [Tiling][711f9fce-4feb-5d2d-8f0d-19a8dddf55a4]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

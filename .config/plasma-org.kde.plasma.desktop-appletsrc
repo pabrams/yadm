@@ -16,6 +16,19 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][General]
+filterMimeTypes=\\0
+positions={"1920x1080":[]}
+sortMode=-1
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/usr/share/wallpapers/Next/
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -74,6 +87,10 @@ plugin=org.kde.plasma.systemtray
 PreloadWeight=100
 SystrayContainmentId=8
 
+[Containments][2][ConfigDialog]
+DialogHeight=84
+DialogWidth=1920
+
 [Containments][2][General]
 AppletOrder=3;4;5;6;7;18;19
 
@@ -126,7 +143,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][8][Applets][15]
 immutability=1
@@ -168,9 +185,13 @@ plugin=org.kde.plasma.devicenotifier
 [Containments][8][Applets][9][Configuration]
 PreloadWeight=55
 
+[Containments][8][Applets][9][Configuration][General]
+popupOnNewDevice=false
+
 [Containments][8][General]
 extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.manage-inputmethod,org.kde.kscreen,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.printmanager
 knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.manage-inputmethod,org.kde.kscreen,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.printmanager
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=
