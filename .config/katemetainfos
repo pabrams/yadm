@@ -105,3 +105,27 @@ Mode=Zsh
 Mode Set By User=false
 Time=2023,3,10,0,1,1.5899999999999999
 URL=file:///home/i/.zshrc
+
+[file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/2022-12-29-2_2023-03-0statement-categorized.csv]
+Bookmarks=
+Checksum=30bed545955b243de7c16e046d731cb34ab1f5f4
+Encoding=UTF-8
+Highlighting=CSV
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=CSV
+Mode Set By User=false
+Time=2023,3,11,21,12,35.447
+URL=file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/2022-12-29-2_2023-03-0statement-categorized.csv
+
+[file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/csvbuddy/TEST-CountryCodes-UTF-16.csv]
+Bookmarks=
+Checksum=4bf0c8ec9b2986c866c03336cc67a3e8ee8b82a1
+Encoding=UTF-16LE
+Highlighting=CSV
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=CSV
+Mode Set By User=false
+Time=2023,3,11,21,20,26.163
+URL=file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/csvbuddy/TEST-CountryCodes-UTF-16.csv
