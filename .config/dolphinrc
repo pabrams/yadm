@@ -20,8 +20,8 @@ detailViewIconSize=16
 [KPropertiesDialog]
 eDP1 HDMI1 Height 1920x1080 HDMI1=616
 eDP1 HDMI1 Width 1920x1080 HDMI1=439
-eDP1 Height 1920x1080 eDP1=458
-eDP1 Width 1920x1080 eDP1=407
+eDP1 Height 1920x1080 eDP1=437
+eDP1 Width 1920x1080 eDP1=436
 
 [MainWindow]
 MenuBar=Disabled

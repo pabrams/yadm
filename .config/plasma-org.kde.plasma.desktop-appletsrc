@@ -28,6 +28,7 @@ PreloadWeight=0
 ToolBoxButtonState=bottom
 ToolBoxButtonX=739
 ToolBoxButtonY=983
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][59]
@@ -44,6 +45,7 @@ immutability=1
 plugin=org.kde.plasma.simplekickoff
 
 [Containments][59][Applets][60][Configuration]
+PreloadWeight=100
 immutability=1
 
 [Containments][59][Applets][60][Configuration][General]
@@ -90,6 +92,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][59][Applets][64][Configuration]
+PreloadWeight=65
 immutability=1
 
 [Containments][59][Applets][65]
@@ -278,3 +281,4 @@ AppletOrder=82;83;84
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab

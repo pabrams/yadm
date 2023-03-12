@@ -6,6 +6,12 @@ Id_1=2185a91e-66e4-4d0d-9a93-5a7ad5d1d8f9
 Number=1
 Rows=1
 
+[Plugins]
+desktopchangeosdEnabled=true
+minimizeallEnabled=true
+synchronizeskipswitcherEnabled=true
+zoomEnabled=false
+
 [Tiling]
 padding=4
 
@@ -14,3 +20,12 @@ tiles={"layoutDirection":"horizontal","tiles":[{"layoutDirection":"vertical","ti
 
 [Tiling][711f9fce-4feb-5d2d-8f0d-19a8dddf55a4]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Windows]
+ElectricBorderDelay=100
+ElectricBorderMaximize=false
+
+[org.kde.kdecoration2]
+BorderSizeAuto=false
+library=org.kde.breeze
+theme=Breeze
