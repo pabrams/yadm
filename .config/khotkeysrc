@@ -1042,6 +1042,16 @@ AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321
 Disabled=false
 Version=2
 
+[Shortcuts]
+Activate Next Tab[$d]
+Activate Previous Tab[$d]
+AddBookmark[$d]
+Begin[$d]
+BeginningOfLine[$d]
+End[$d]
+EndOfLine[$d]
+Up[$d]
+
 [Voice]
 Shortcut=
 

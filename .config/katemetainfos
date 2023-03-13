@@ -94,17 +94,53 @@ Mode Set By User=false
 Time=2023,3,9,13,9,34.287
 URL=file:///home/i/.yadm-README.md
 
+[file:///home/i/.zsh_history]
+Bookmarks=
+Checksum=ccf9412a997a42bf9210640c480ce45e7d2041e7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,12,18,15,25.741
+URL=file:///home/i/.zsh_history
+
 [file:///home/i/.zshrc]
 Bookmarks=
-Checksum=386c0896efab37612f704525d8f258e63fbf97da
+Checksum=67c29db385286569f37fefc80425121961f5a620
 Encoding=UTF-8
 Highlighting=Zsh
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Zsh
 Mode Set By User=false
-Time=2023,3,10,0,1,1.5899999999999999
+Time=2023,3,12,18,14,13.766
 URL=file:///home/i/.zshrc
+
+[file:///home/i/.zshrc.pre-oh-my-zsh-2023-03-09_23-50-47]
+Bookmarks=
+Checksum=f3dd3f28fdfb29097a8f0bc3a08acf595d998014
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,12,18,14,40.151
+URL=file:///home/i/.zshrc.pre-oh-my-zsh-2023-03-09_23-50-47
+
+[file:///home/i/.zshrc.pre-oh-my-zsh-2023-03-12_14-01-58]
+Bookmarks=
+Checksum=0003b97bba9f5421f2a9c324ee2321e0ed16e0af
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,12,18,14,54.209
+URL=file:///home/i/.zshrc.pre-oh-my-zsh-2023-03-12_14-01-58
 
 [file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/2022-12-29-2_2023-03-0statement-categorized.csv]
 Bookmarks=

@@ -114,15 +114,14 @@ ForegroundVisited=255,0,255
 
 [General]
 AccentColor=0,0,0,0
-ColorScheme=TradeWars2002
-ColorSchemeHash=8dc3d7f15822b707d9e86d4951871fe1859e984c
+ColorSchemeHash=43fd12351fd5e335dd8843b8f9ef9e3edde97a93
 LastUsedCustomAccentColor=255,0,0
 
 [KDE]
 LookAndFeelPackage=Shiny-Global
 ScrollbarLeftClickNavigatesByPage=false
 SingleClick=false
-widgetStyle=Breeze
+widgetStyle=Windows
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -155,9 +154,9 @@ EndOfLine=Alt+Down; End
 Up=
 
 [WM]
-activeBackground=0,0,0
-activeBlend=0,0,0
+activeBackground=0,85,85
+activeBlend=0,0,85
 activeForeground=0,255,0
-inactiveBackground=0,0,0
+inactiveBackground=0,0,85
 inactiveBlend=85,85,0
-inactiveForeground=0,85,85
+inactiveForeground=0,85,0

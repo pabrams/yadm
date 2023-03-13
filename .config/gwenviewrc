@@ -18,7 +18,11 @@ eDP1 YPosition 1920x1080 eDP1=331
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/GrandPerspective_(Big_Sur_icon).tif
+File2[$e]=$HOME/Pictures/dfy2031_scatfile.com-00029.jpg
+File3[$e]=$HOME/Pictures/C52290B.jpg
 Name1[$e]=GrandPerspective_(Big_Sur_icon).tif
+Name2[$e]=dfy2031_scatfile.com-00029.jpg
+Name3[$e]=C52290B.jpg
 
 [SideBar]
 InformationSplitterSizes=212,243

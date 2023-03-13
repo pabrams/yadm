@@ -27,5 +27,5 @@ ElectricBorderMaximize=false
 
 [org.kde.kdecoration2]
 BorderSizeAuto=false
-library=org.kde.breeze
-theme=Breeze
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Black

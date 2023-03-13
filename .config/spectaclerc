@@ -2,4 +2,7 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [GuiConfig]
-window-position=46,32
+window-position=34,32
+
+[Save]
+lastSaveLocation=file:///home/i/Pictures/Screenshot_20230312_015520.png

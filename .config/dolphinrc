@@ -10,6 +10,9 @@ eDP1 Width 1920x1080 eDP1=1280
 Version=202
 ViewPropsTimestamp=2023,3,8,0,3,23.007
 
+[IconsMode]
+PreviewSize=208
+
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
