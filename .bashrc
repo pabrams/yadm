@@ -85,3 +85,5 @@ _open_files_for_editing() {
 # alias pacdiff=eos-pacdiff
 ################################################################################
 
+
+source /home/i/.config/broot/launcher/bash/br

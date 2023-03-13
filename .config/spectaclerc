@@ -2,7 +2,14 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [GuiConfig]
-window-position=34,32
+quitAfterSaveCopyExport=true
+window-position=169,142
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/primary and secondary colors.png,file:$HOME/Pictures/tw2002-Screenshot_20230313_193950.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/
+detailViewIconSize=16
 
 [Save]
-lastSaveLocation=file:///home/i/Pictures/Screenshot_20230312_015520.png
+lastSaveAsLocation=file:///home/i/Pictures/tw2002-Screenshot_20230313_193950.png
+lastSaveLocation=file:///home/i/Pictures/tw2002-Screenshot_20230313_193950.png
