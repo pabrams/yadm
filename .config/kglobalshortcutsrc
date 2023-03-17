@@ -29,14 +29,6 @@ Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
-[khotkeys]
-_k_friendly_name=Custom Shortcuts Service
-{4045e589-12a8-4ba2-bb88-a594f70112eb}=,none,New Action
-{733e4507-c8f4-4057-abb9-f2ba2bdda364}=Meta+F,none,New Action
-{8627e276-bf9f-45a0-8936-8321e143e6f2}=,none,New Action
-{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
-{f9399c90-5b65-4020-bac1-ac8f87f6ad73}=Meta+C,none,New Action
-
 [kmix]
 _k_friendly_name=Audio Volume
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
@@ -57,7 +49,7 @@ _k_friendly_name=Session Management
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Activate Window Demanding Attention
 Decrease Opacity=none,,Decrease Opacity of Active Window by 5%
-Edit Tiles=,Meta+T,Toggle Tiles Editor
+Edit Tiles=none,Meta+T,Toggle Tiles Editor
 Expose=Ctrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
 ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
 ExposeClass=Ctrl+F7,Ctrl+F7,Toggle Present Windows (Window class)
