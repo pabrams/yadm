@@ -21,6 +21,8 @@ Recent URLs[$e]=file:$HOME/Downloads/
 detailViewIconSize=16
 
 [KPropertiesDialog]
+1920x1080 screen: Height=616
+1920x1080 screen: Width=462
 eDP1 HDMI1 Height 1920x1080 HDMI1=616
 eDP1 HDMI1 Width 1920x1080 HDMI1=439
 eDP1 Height 1920x1080 eDP1=437

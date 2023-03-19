@@ -2,35 +2,14 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=terminator
+count=1
 
 [Session: saved at previous logout]
-clientId1=10aca37ea0000167886319500000007600005
-clientId2=10aca37ea0000167861648500003944220056
-clientId3=10aca37ea0000167869096700000007410017
-clientId4=10aca37ea0000167869143900000007410023
-clientId5=10aca37ea0000167869250700000007410024
-count=5
-discardCommand3[$e]=rm,$HOME/.config/session/systemsettings_10aca37ea0000167869096700000007410017_1678863666_894916
-discardCommand4[$e]=rm,$HOME/.config/session/dolphin_10aca37ea0000167869143900000007410023_1678863666_895082
-discardCommand5[$e]=rm,$HOME/.config/session/kinfocenter_10aca37ea0000167869250700000007410024_1678863666_897883
+clientId1=10aca37ea0000167920304600000007190005
+count=1
 program1=/usr/bin/firewall-applet
-program2=firefox
-program3=/usr/bin/systemsettings
-program4=/usr/bin/dolphin
-program5=/usr/bin/kinfocenter
-restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000167886319500000007600005_1678863666_889465,-name,firewall-applet
-restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10aca37ea0000167861648500003944220056
-restartCommand3=/usr/bin/systemsettings,-session,10aca37ea0000167869096700000007410017_1678863666_894916
-restartCommand4=/usr/bin/dolphin,-session,10aca37ea0000167869143900000007410023_1678863666_895082
-restartCommand5=/usr/bin/kinfocenter,-session,10aca37ea0000167869250700000007410024_1678863666_897883,-name,kinfocenter
+restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000167920304600000007190005_1679204209_557563,-name,firewall-applet
 restartStyleHint1=0
-restartStyleHint2=0
-restartStyleHint3=0
-restartStyleHint4=0
-restartStyleHint5=0
 userId1=i
-userId2=i
-userId3=i
-userId4=i
-userId5=i

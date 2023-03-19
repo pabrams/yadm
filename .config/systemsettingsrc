@@ -4,7 +4,12 @@ Recent URLs[$e]=recentlyused:/locations/
 detailViewIconSize=16
 
 [MainWindow]
+1920x1080 screen: Height=742
+1920x1080 screen: Width=1414
+1920x1080 screen: XPosition=303
+1920x1080 screen: YPosition=246
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAAAABYYAAALmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP1=eDP1

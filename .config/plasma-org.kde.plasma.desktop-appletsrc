@@ -28,7 +28,7 @@ PreloadWeight=0
 ToolBoxButtonState=bottom
 ToolBoxButtonX=739
 ToolBoxButtonY=983
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
 sortMode=-1
 
 [Containments][59]
@@ -69,7 +69,7 @@ immutability=1
 plugin=com.marcinorlowski.htmlclock
 
 [Containments][59][Applets][62][Configuration]
-PreloadWeight=90
+PreloadWeight=100
 immutability=1
 
 [Containments][59][Applets][62][Configuration][Appearance]
@@ -122,7 +122,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][59][Applets][67][Configuration]
-PreloadWeight=65
+PreloadWeight=75
 immutability=1
 
 [Containments][59][Applets][67][Configuration][Configuration]
@@ -150,7 +150,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][59][Applets][70][Configuration]
-PreloadWeight=55
+PreloadWeight=65
 immutability=1
 popupHeight=432
 popupWidth=324
@@ -188,6 +188,7 @@ immutability=1
 plugin=org.kde.plasma.inlineBattery
 
 [Containments][59][Applets][75][Configuration]
+PreloadWeight=60
 immutability=1
 
 [Containments][59][Applets][75][Configuration][Configuration]
@@ -219,7 +220,7 @@ immutability=1
 plugin=org.kde.milou
 
 [Containments][59][Applets][78][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 immutability=1
 
 [Containments][59][Applets][79]
@@ -240,6 +241,14 @@ immutability=1
 immutability=1
 plugin=org.kde.plasma.showActivityManager
 
+[Containments][59][Applets][86]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][59][Applets][86][Configuration]
+localPath=/home/i/.local/share/plasma_icons/Inkscape-b0a8486-x86_64.AppImage.desktop
+url=desktop:/Inkscape-b0a8486-x86_64.AppImage
+
 [Containments][59][ConfigDialog]
 DialogHeight=73
 DialogWidth=1920
@@ -248,7 +257,7 @@ DialogWidth=1920
 PreloadWeight=0
 
 [Containments][59][General]
-AppletOrder=85;60;61;62;63;64;65;66;67;68;69;70;71;72;73;74;75;76;77;78;79;80
+AppletOrder=85;60;61;62;86;63;64;65;66;67;68;69;70;71;72;73;74;75;76;77;78;79;80
 
 [Containments][81]
 activityId=
@@ -279,7 +288,7 @@ PreloadWeight=0
 
 [Containments][81][Applets][83][Configuration][General]
 indicateAudioStreams=false
-launchers=applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:org.kde.discover.desktop,applications:org.kde.gwenview.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop
+launchers=applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:org.kde.gwenview.desktop,applications:systemsettings.desktop,applications:firefox.desktop,applications:org.kde.konsole.desktop
 maxStripes=1
 
 [Containments][81][Applets][84]
@@ -298,4 +307,4 @@ AppletOrder=82;83;84
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+screenMapping=desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab

@@ -9,8 +9,10 @@ Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
+1920x1080 screen: XPosition=4
+1920x1080 screen: YPosition=475
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP1=eDP1
 eDP1 XPosition 1920x1080 eDP1=640
@@ -20,9 +22,15 @@ eDP1 YPosition 1920x1080 eDP1=331
 File1[$e]=$HOME/Downloads/GrandPerspective_(Big_Sur_icon).tif
 File2[$e]=$HOME/Pictures/dfy2031_scatfile.com-00029.jpg
 File3[$e]=$HOME/Pictures/C52290B.jpg
+File4[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
+File5[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
+File6[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
 Name1[$e]=GrandPerspective_(Big_Sur_icon).tif
 Name2[$e]=dfy2031_scatfile.com-00029.jpg
 Name3[$e]=C52290B.jpg
+Name4[$e]=20221128_202943000_iOS.jpg
+Name5[$e]=2022-04-01.png
+Name6[$e]=Screenshot_20220614-200854_Chrome.jpg
 
 [SideBar]
-InformationSplitterSizes=212,243
+InformationSplitterSizes=211,242
