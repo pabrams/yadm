@@ -3,7 +3,7 @@ update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_remember
 
 [GuiConfig]
 quitAfterSaveCopyExport=true
-window-position=165,112
+window-position=157,52
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Pictures/primary and secondary colors.png,file:$HOME/Pictures/tw2002-Screenshot_20230313_193950.png

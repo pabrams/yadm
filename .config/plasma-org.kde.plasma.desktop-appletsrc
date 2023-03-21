@@ -28,7 +28,7 @@ PreloadWeight=0
 ToolBoxButtonState=bottom
 ToolBoxButtonX=739
 ToolBoxButtonY=983
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/steam.desktop"\\,"0"\\,"2"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][59]
@@ -274,6 +274,10 @@ plugin=org.kde.plasma.marginsseparator
 
 [Containments][81][Applets][82][Configuration]
 immutability=1
+
+[Containments][81][Applets][82][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][81][Applets][83]
 immutability=1
