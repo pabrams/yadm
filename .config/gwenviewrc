@@ -9,8 +9,8 @@ Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
-1920x1080 screen: XPosition=1002
-1920x1080 screen: YPosition=468
+1920x1080 screen: XPosition=944
+1920x1080 screen: YPosition=466
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
