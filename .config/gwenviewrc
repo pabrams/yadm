@@ -10,12 +10,12 @@ Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
-1920x1080 screen: Height=761
-1920x1080 screen: Width=664
+1920x1080 screen: Height=671
+1920x1080 screen: Width=640
 1920x1080 screen: XPosition=944
-1920x1080 screen: YPosition=315
+1920x1080 screen: YPosition=405
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAApgAAALLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAJxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP1=eDP1
 eDP1 XPosition 1920x1080 eDP1=640
@@ -46,4 +46,4 @@ Name9[$e]=IMG_20190803_140133.jpg
 [SideBar]
 InformationSplitterSizes=221,254
 IsVisible ViewMode=true
-SideBarSplitterSizes=213,450
+SideBarSplitterSizes=213,426
