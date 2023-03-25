@@ -10,36 +10,40 @@ Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
-1920x1080 screen: Height=671
-1920x1080 screen: Width=640
+1920x1080 screen: Height=761
+1920x1080 screen: Width=664
 1920x1080 screen: XPosition=944
-1920x1080 screen: YPosition=405
+1920x1080 screen: YPosition=315
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAJxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAApgAAALLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP1=eDP1
 eDP1 XPosition 1920x1080 eDP1=640
 eDP1 YPosition 1920x1080 eDP1=331
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/GrandPerspective_(Big_Sur_icon).tif
-File2[$e]=$HOME/Pictures/dfy2031_scatfile.com-00029.jpg
-File3[$e]=$HOME/Pictures/C52290B.jpg
-File4[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
-File5[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
-File6[$e]=$HOME/Pictures/u/o/spaghetti-ohs/c54nQCOtTtCNOsN804M4fg.jpg
-File7[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
-File8[$e]=$HOME/Pictures/49TrDdCeS9a4l15ONkJNdA.jpg
-Name1[$e]=GrandPerspective_(Big_Sur_icon).tif
-Name2[$e]=dfy2031_scatfile.com-00029.jpg
-Name3[$e]=C52290B.jpg
-Name4[$e]=20221128_202943000_iOS.jpg
-Name5[$e]=2022-04-01.png
-Name6[$e]=c54nQCOtTtCNOsN804M4fg.jpg
-Name7[$e]=Screenshot_20220614-200854_Chrome.jpg
-Name8[$e]=49TrDdCeS9a4l15ONkJNdA.jpg
+File1[$e]=$HOME/Pictures/C52290B.jpg
+File10[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/images.jpg
+File2[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
+File3[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
+File4[$e]=$HOME/Pictures/u/o/spaghetti-ohs/c54nQCOtTtCNOsN804M4fg.jpg
+File5[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
+File6[$e]=$HOME/Pictures/49TrDdCeS9a4l15ONkJNdA.jpg
+File7[$e]=$HOME/Downloads/2023-01-09_00-58-40_145.heic
+File8[$e]=$HOME/Pictures/u/o/spaghetti-ohs/62125CA.jpg
+File9[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/IMG_20190803_140133.jpg
+Name1[$e]=C52290B.jpg
+Name10[$e]=images.jpg
+Name2[$e]=20221128_202943000_iOS.jpg
+Name3[$e]=2022-04-01.png
+Name4[$e]=c54nQCOtTtCNOsN804M4fg.jpg
+Name5[$e]=Screenshot_20220614-200854_Chrome.jpg
+Name6[$e]=49TrDdCeS9a4l15ONkJNdA.jpg
+Name7[$e]=2023-01-09_00-58-40_145.heic
+Name8[$e]=62125CA.jpg
+Name9[$e]=IMG_20190803_140133.jpg
 
 [SideBar]
 InformationSplitterSizes=221,254
 IsVisible ViewMode=true
-SideBarSplitterSizes=228,411
+SideBarSplitterSizes=213,450

@@ -6,14 +6,6 @@ switch-to-activity-ff629bff-e4b6-4cf8-9041-a7a7272fd3ab=none,none,Switch to acti
 Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
-[jumpapp-2.desktop]
-_k_friendly_name=jumpapp
-_launch=Shift,none,jumpapp
-
-[jumpapp.desktop]
-_k_friendly_name=jumpapp terminator
-_launch=Meta+T,none,jumpapp terminator
-
 [kaccess]
 Toggle Screen Reader On and Off=none,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -31,6 +23,10 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
+{733e4507-c8f4-4057-abb9-f2ba2bdda364}=Meta+F,none,jumpapp firefox
+{8627e276-bf9f-45a0-8936-8321e143e6f2}=Meta+H,none,jumpapp hyper
+{96f10646-c994-4fc0-8351-0e994906a8b6}=Meta+C,none,jumpapp code
+{be19a653-b230-4ead-9294-a4aeea4314c7}=Meta+Shift+E,none,jumpapp dolphin
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [kmix]
@@ -299,7 +295,3 @@ kcm-lookandfeel=none,none,Global Theme
 kcm-users=none,none,Users
 powerdevilprofilesconfig=none,none,Energy Saving
 screenlocker=none,none,Screen Locking
-
-[yakuake]
-_k_friendly_name=Yakuake
-toggle-window-state=Ctrl+Alt+Y,F12,Open/Retract Yakuake
