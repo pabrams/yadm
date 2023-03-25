@@ -150,7 +150,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][59][Applets][70][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 immutability=1
 popupHeight=432
 popupWidth=324
@@ -292,7 +292,7 @@ PreloadWeight=0
 
 [Containments][81][Applets][83][Configuration][General]
 indicateAudioStreams=false
-launchers=applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:org.kde.gwenview.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:firefox.desktop
+launchers=applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.gwenview.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:firefox.desktop
 maxStripes=1
 
 [Containments][81][Applets][84]
@@ -311,4 +311,4 @@ AppletOrder=82;83;84
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+screenMapping=desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab

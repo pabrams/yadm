@@ -12,24 +12,42 @@ idleTime=300000
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
+triggerLidActionWhenExternalMonitorPresent=false
+
+[Activities][ff629bff-e4b6-4cf8-9041-a7a7272fd3ab]
+mode=SpecialBehavior
+
+[Activities][ff629bff-e4b6-4cf8-9041-a7a7272fd3ab][SpecialBehavior]
+noScreenManagement=true
+noSuspend=true
+performAction=false
+
+[Activities][ff629bff-e4b6-4cf8-9041-a7a7272fd3ab][SpecialBehavior][ActionConfig]
+idleTime=60000
+suspendType=1
 
 [Battery]
 icon=battery-060
 
+[Battery][BrightnessControl]
+value=48
+
 [Battery][DPMSControl]
-idleTime=300
+idleTime=3120
 lockBeforeTurnOff=0
 
 [Battery][DimDisplay]
-idleTime=120000
+idleTime=3720000
 
 [Battery][HandleButtonEvents]
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
+triggerLidActionWhenExternalMonitorPresent=false
 
 [Battery][SuspendSession]
-idleTime=600000
+idleTime=60000
+suspendThenHibernate=false
 suspendType=1
 
 [LowBattery]
@@ -49,7 +67,9 @@ idleTime=60000
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
+triggerLidActionWhenExternalMonitorPresent=false
 
 [LowBattery][SuspendSession]
 idleTime=300000
+suspendThenHibernate=false
 suspendType=1

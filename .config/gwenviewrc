@@ -3,16 +3,19 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 
 [General]
 LastUsedVersion=210800
+SideBarPage=operations
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
+1920x1080 screen: Height=671
+1920x1080 screen: Width=640
 1920x1080 screen: XPosition=944
-1920x1080 screen: YPosition=466
+1920x1080 screen: YPosition=405
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAJxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP1=eDP1
 eDP1 XPosition 1920x1080 eDP1=640
@@ -26,6 +29,7 @@ File4[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
 File5[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
 File6[$e]=$HOME/Pictures/u/o/spaghetti-ohs/c54nQCOtTtCNOsN804M4fg.jpg
 File7[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
+File8[$e]=$HOME/Pictures/49TrDdCeS9a4l15ONkJNdA.jpg
 Name1[$e]=GrandPerspective_(Big_Sur_icon).tif
 Name2[$e]=dfy2031_scatfile.com-00029.jpg
 Name3[$e]=C52290B.jpg
@@ -33,6 +37,9 @@ Name4[$e]=20221128_202943000_iOS.jpg
 Name5[$e]=2022-04-01.png
 Name6[$e]=c54nQCOtTtCNOsN804M4fg.jpg
 Name7[$e]=Screenshot_20220614-200854_Chrome.jpg
+Name8[$e]=49TrDdCeS9a4l15ONkJNdA.jpg
 
 [SideBar]
-InformationSplitterSizes=212,243
+InformationSplitterSizes=221,254
+IsVisible ViewMode=true
+SideBarSplitterSizes=228,411
