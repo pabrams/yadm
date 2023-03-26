@@ -292,7 +292,7 @@ PreloadWeight=0
 
 [Containments][81][Applets][83][Configuration][General]
 indicateAudioStreams=false
-launchers=applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:org.kde.gwenview.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop
+launchers=applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:org.kde.konsole.desktop,applications:org.kde.gwenview.desktop,applications:systemsettings.desktop
 maxStripes=1
 
 [Containments][81][Applets][84]

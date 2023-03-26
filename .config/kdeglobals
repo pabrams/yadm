@@ -112,6 +112,9 @@ ForegroundNormal=0,255,255
 ForegroundPositive=0,170,127
 ForegroundVisited=255,0,255
 
+[DirSelect Dialog]
+DirSelectDialog Size=844,598
+
 [General]
 AccentColor=0,0,0,0
 ColorSchemeHash=6ce566e3d7a31ee08519e38ba36e5827cfae5a52
