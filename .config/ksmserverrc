@@ -2,41 +2,23 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-clientMachine1=localhost
-command1=gimp-2.10
-count=1
+count=0
 
 [Session: saved at previous logout]
-clientId1=10aca37ea0000167959705900000007360005
-clientId2=10aca37ea0000167964907200000007360037
-clientId3=10aca37ea0000167964914300000007360038
-clientId4=10aca37ea0000167965980300000007360042
-clientId5=10aca37ea0000167971056000000007360046
-clientId6=10aca37ea0000167971469400000007360048
-count=6
-discardCommand2[$e]=rm,$HOME/.config/session/gwenview_10aca37ea0000167964907200000007360037_1679714719_422233
-discardCommand4[$e]=rm,$HOME/.config/session/ark_10aca37ea0000167965980300000007360042_1679714719_422396
+clientId1=10aca37ea0000167977198100000008120005
+clientId2=10aca37ea0000167976119100000008350006
+clientId3=10aca37ea0000167976845200000008350011
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_10aca37ea0000167976119100000008350006_1679779088_867022
 program1=/usr/bin/firewall-applet
-program2=/usr/bin/gwenview
+program2=/usr/bin/systemsettings
 program3=firefox
-program4=/usr/bin/ark
-program5=/usr/bin/webcamoid
-program6=/usr/bin/webcamoid
-restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000167959705900000007360005_1679714719_421889,-name,firewall-applet
-restartCommand2=/usr/bin/gwenview,-session,10aca37ea0000167964907200000007360037_1679714719_422233
-restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,10aca37ea0000167964914300000007360038
-restartCommand4=/usr/bin/ark,-session,10aca37ea0000167965980300000007360042_1679714719_422396
-restartCommand5=/usr/bin/webcamoid,-session,10aca37ea0000167971056000000007360046_1679714719_423135
-restartCommand6=/usr/bin/webcamoid,-session,10aca37ea0000167971469400000007360048_1679714719_424513
+restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000167977198100000008120005_1679779088_868292,-name,firewall-applet
+restartCommand2=/usr/bin/systemsettings,-session,10aca37ea0000167976119100000008350006_1679779088_867022
+restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,10aca37ea0000167976845200000008350011
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
-restartStyleHint4=0
-restartStyleHint5=0
-restartStyleHint6=0
 userId1=i
 userId2=i
 userId3=i
-userId4=i
-userId5=i
-userId6=i

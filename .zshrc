@@ -115,4 +115,6 @@ setopt no_auto_menu  # require an extra TAB press to open the completion menu
 source /home/i/.config/broot/launcher/bash/br
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
-export PATH="$PATH:$HOME/.rvm/bin"
+export PATH="~/repos/sh/:$PATH:$HOME/.rvm/bin"
+
+echo .zshrc loaded
