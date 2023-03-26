@@ -1,2 +1,10 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[522f2ef2-aee7-4a7d-80bf-7852fdb98726]
+Description=New window settings
+wmclassmatch=1
+
+[General]
+count=1
+rules=522f2ef2-aee7-4a7d-80bf-7852fdb98726

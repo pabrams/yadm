@@ -141,7 +141,7 @@ DataCount=3
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
 DataCount=1
-Enabled=false
+Enabled=true
 Name=KMenuEdit
 SystemGroup=1
 Type=ACTION_DATA_GROUP
@@ -152,7 +152,7 @@ ConditionsCount=0
 
 [Data_1_1]
 Comment=Comment
-Enabled=true
+Enabled=false
 Name=Search
 Type=SIMPLE_ACTION_DATA
 
@@ -362,7 +362,7 @@ Uuid={50279471-63ae-4a27-abb7-ad5ea11c926b}
 
 [Data_2_4]
 Comment=Read the comment on the "Type 'Hello'" action first.\n\nQt Designer uses Ctrl+F4 for closing windows.  In KDE, however, Ctrl+F4 is the shortcut for going to virtual desktop 4, so this shortcut does not work in Qt Designer.  Further, Qt Designer does not use KDE's standard Ctrl+W for closing the window.\n\nThis problem can be solved by remapping Ctrl+W to Ctrl+F4 when the active window is Qt Designer. When Qt Designer is active, every time Ctrl+W is pressed, Ctrl+F4 will be sent to Qt Designer instead. In other applications, the effect of Ctrl+W is unchanged.\n\nWe now need to specify three things: A new shortcut trigger on 'Ctrl+W', a new keyboard input action sending Ctrl+F4, and a new condition that the active window is Qt Designer.\nQt Designer seems to always have title 'Qt Designer by Trolltech', so the condition will check for the active window having that title.
-Enabled=false
+Enabled=true
 Name=Remap Ctrl+W to Ctrl+F4 in Qt Designer
 Type=GENERIC_ACTION_DATA
 
@@ -407,7 +407,7 @@ Uuid={33d24852-e03a-4edf-9488-65a5b1c036de}
 
 [Data_2_5]
 Comment=By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the minicli. You can use any kind of D-Bus call, just like using the command line 'qdbus' tool.
-Enabled=false
+Enabled=true
 Name=Perform D-Bus call 'qdbus org.kde.krunner /App display'
 Type=SIMPLE_ACTION_DATA
 
@@ -1102,9 +1102,13 @@ DirSelectDialog Size[$d]
 
 [General]
 AccentColor[$d]
+BrowserApplication[$d]
 ColorScheme[$d]
 ColorSchemeHash[$d]
 LastUsedCustomAccentColor[$d]
+TerminalApplication[$d]
+TerminalService[$d]
+UseSystemBell[$d]
 
 [Gestures]
 Disabled=true
