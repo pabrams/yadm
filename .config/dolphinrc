@@ -2,11 +2,14 @@
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/Downloads/
+1920x1080 screen: Height=560
+1920x1080 screen: Width=1280
+DirHistory[$e]=$HOME/Pictures/,$HOME/Downloads/
 eDP1 Height 1920x1080 eDP1=560
 eDP1 Width 1920x1080 eDP1=1280
 
 [General]
+LockPanels=false
 Version=202
 ViewPropsTimestamp=2023,3,8,0,3,23.007
 
@@ -14,15 +17,15 @@ ViewPropsTimestamp=2023,3,8,0,3,23.007
 PreviewSize=208
 
 [KFileDialog Settings]
-Places Icons Auto-resize=false
+Places Icons Auto-resize=true
 Places Icons Static Size=22
-Recent Files[$e]=file:$HOME/repos,file:$HOME/repos
-Recent URLs[$e]=file:$HOME/Downloads/
+Recent Files[$e]=file:$HOME/repos,file:$HOME/Pictures
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/
 detailViewIconSize=16
 
 [KPropertiesDialog]
-1920x1080 screen: Height=616
-1920x1080 screen: Width=462
+1920x1080 screen: Height=588
+1920x1080 screen: Width=439
 eDP1 HDMI1 Height 1920x1080 HDMI1=616
 eDP1 HDMI1 Width 1920x1080 HDMI1=439
 eDP1 Height 1920x1080 eDP1=437
@@ -31,3 +34,6 @@ eDP1 Width 1920x1080 eDP1=436
 [MainWindow]
 MenuBar=Disabled
 ToolBarsMovable=Disabled
+
+[PlacesPanel]
+IconSize=-1

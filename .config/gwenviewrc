@@ -22,26 +22,26 @@ eDP1 XPosition 1920x1080 eDP1=640
 eDP1 YPosition 1920x1080 eDP1=331
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/C52290B.jpg
-File10[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/images.jpg
-File2[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
-File3[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
-File4[$e]=$HOME/Pictures/u/o/spaghetti-ohs/c54nQCOtTtCNOsN804M4fg.jpg
-File5[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
-File6[$e]=$HOME/Pictures/49TrDdCeS9a4l15ONkJNdA.jpg
-File7[$e]=$HOME/Downloads/2023-01-09_00-58-40_145.heic
-File8[$e]=$HOME/Pictures/u/o/spaghetti-ohs/62125CA.jpg
-File9[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/IMG_20190803_140133.jpg
-Name1[$e]=C52290B.jpg
-Name10[$e]=images.jpg
-Name2[$e]=20221128_202943000_iOS.jpg
-Name3[$e]=2022-04-01.png
-Name4[$e]=c54nQCOtTtCNOsN804M4fg.jpg
-Name5[$e]=Screenshot_20220614-200854_Chrome.jpg
-Name6[$e]=49TrDdCeS9a4l15ONkJNdA.jpg
-Name7[$e]=2023-01-09_00-58-40_145.heic
-Name8[$e]=62125CA.jpg
-Name9[$e]=IMG_20190803_140133.jpg
+File1[$e]=$HOME/Downloads/20221128_202943000_iOS.jpg
+File10[$e]=$HOME/Downloads/2023-01-21_02-03-06_889(1).heic
+File2[$e]=$HOME/OneDrive/Pictures/Screenshots/2022-04-01.png
+File3[$e]=$HOME/Pictures/u/o/spaghetti-ohs/c54nQCOtTtCNOsN804M4fg.jpg
+File4[$e]=$HOME/OneDrive/Pictures/Screenshots/Screenshot_20220614-200854_Chrome.jpg
+File5[$e]=$HOME/Pictures/49TrDdCeS9a4l15ONkJNdA.jpg
+File6[$e]=$HOME/Downloads/2023-01-09_00-58-40_145.heic
+File7[$e]=$HOME/Pictures/u/o/spaghetti-ohs/62125CA.jpg
+File8[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/IMG_20190803_140133.jpg
+File9[$e]=/run/media/i/2CC284BBC2848B32/Users/User1/Downloads/images.jpg
+Name1[$e]=20221128_202943000_iOS.jpg
+Name10[$e]=2023-01-21_02-03-06_889(1).heic
+Name2[$e]=2022-04-01.png
+Name3[$e]=c54nQCOtTtCNOsN804M4fg.jpg
+Name4[$e]=Screenshot_20220614-200854_Chrome.jpg
+Name5[$e]=49TrDdCeS9a4l15ONkJNdA.jpg
+Name6[$e]=2023-01-09_00-58-40_145.heic
+Name7[$e]=62125CA.jpg
+Name8[$e]=IMG_20190803_140133.jpg
+Name9[$e]=images.jpg
 
 [SideBar]
 InformationSplitterSizes=221,254

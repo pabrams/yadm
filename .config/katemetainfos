@@ -166,6 +166,18 @@ Mode Set By User=false
 Time=2023,3,18,20,51,22.901
 URL=file:///home/i/Pictures/Code test Gun.io_files/a_data_002/frame.5368c7ca.js
 
+[file:///home/i/Pictures/xx/New Rich Text Document.rtf]
+Bookmarks=
+Checksum=08778d7a80e7c72dfd6972c00423c4f6d3d78072
+Encoding=UTF-8
+Highlighting=Rich Text Format
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Rich Text Format
+Mode Set By User=false
+Time=2023,3,27,22,0,56.504
+URL=file:///home/i/Pictures/xx/New Rich Text Document.rtf
+
 [file:///home/i/wifi-log.txt]
 Bookmarks=
 Checksum=6886d16ce0467289d392a1f12797485fb13a72fa
@@ -177,6 +189,18 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,3,18,20,51,22.901
 URL=file:///home/i/wifi-log.txt
+
+[file:///run/media/i/2CC284BBC2848B32/Users/User1/Documents/507-hours.txt]
+Bookmarks=
+Checksum=316df821897300946e2541e066ee7b9616076671
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,27,1,41,49.561
+URL=file:///run/media/i/2CC284BBC2848B32/Users/User1/Documents/507-hours.txt
 
 [file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/2022-12-29-2_2023-03-0statement-categorized.csv]
 Bookmarks=
@@ -201,3 +225,15 @@ Mode=CSV
 Mode Set By User=false
 Time=2023,3,11,21,20,26.163
 URL=file:///run/media/i/2CC284BBC2848B32/Users/User1/Downloads/csvbuddy/TEST-CountryCodes-UTF-16.csv
+
+[file:///run/media/i/2CC284BBC2848B32/cygwin64/home/User1/.inputrc]
+Bookmarks=
+Checksum=efc1050068702d21e0a95dd4e9f9002e354a51d3
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,3,27,1,37,20.172
+URL=file:///run/media/i/2CC284BBC2848B32/cygwin64/home/User1/.inputrc

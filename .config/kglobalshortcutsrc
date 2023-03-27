@@ -23,16 +23,11 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
-{12113a06-a1c3-4ec0-8407-c27a9a168917}=Ctrl+Alt+I,none,Activate KSIRC Window
-{16f597c9-d514-49d8-a3ba-09e4ca51dc91}=,none,New Action
-{33d24852-e03a-4edf-9488-65a5b1c036de}=Ctrl+W,none,Remap Ctrl+W to Ctrl+F4 in Qt Designer
 {69375598-5a3b-4b42-81af-8f14f90b731b}=Ctrl+Alt+W,none,Perform D-Bus call 'qdbus org.kde.krunner /App display'
 {733e4507-c8f4-4057-abb9-f2ba2bdda364}=Meta+F,none,jumpapp firefox
-{837a1612-e385-4a7b-a142-03b197857e6e}=,none,New Action
 {8627e276-bf9f-45a0-8936-8321e143e6f2}=Meta+H,none,jumpapp hyper
 {96f10646-c994-4fc0-8351-0e994906a8b6}=Meta+C,none,jumpapp code
 {be19a653-b230-4ead-9294-a4aeea4314c7}=Meta+Shift+E,none,jumpapp dolphin
-{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [kmix]
 _k_friendly_name=Audio Volume
@@ -274,6 +269,7 @@ activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
 activate widget 26=none,none,Activate Simple Application Launcher Widget
 activate widget 3=Alt+F1,none,Activate Application Launcher Widget
+activate widget 80=none,none,Activate Margins Separator Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatic Action Popup Menu
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
