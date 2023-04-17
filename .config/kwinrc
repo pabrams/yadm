@@ -8,7 +8,9 @@ Rows=1
 
 [Plugins]
 desktopchangeosdEnabled=true
+invertEnabled=true
 minimizeallEnabled=true
+snaphelperEnabled=true
 synchronizeskipswitcherEnabled=true
 zoomEnabled=false
 
@@ -19,6 +21,9 @@ padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.4},{"layoutDirection":"floating","tiles":[{"height":0.6453703703703701,"width":0.41093750000000145,"x":0.45,"y":0.05}],"width":0.6}]}
 
 [Tiling][711f9fce-4feb-5d2d-8f0d-19a8dddf55a4]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][cd27022e-b4a2-58df-9e9d-228fd7c7cf85]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Windows]

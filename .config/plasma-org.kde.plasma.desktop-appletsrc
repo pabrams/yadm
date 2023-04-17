@@ -95,6 +95,9 @@ immutability=1
 [Containments][59][Applets][63][Configuration][Configuration]
 PreloadWeight=0
 
+[Containments][59][Applets][63][Configuration][General]
+expanding=false
+
 [Containments][59][Applets][64]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
@@ -129,7 +132,6 @@ immutability=1
 PreloadWeight=0
 
 [Containments][59][Applets][67][Configuration][General]
-currentTab=streams
 migrated=true
 
 [Containments][59][Applets][68]
@@ -151,7 +153,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][59][Applets][70][Configuration]
-PreloadWeight=70
+PreloadWeight=80
 immutability=1
 popupHeight=432
 popupWidth=324
@@ -314,6 +316,15 @@ DialogWidth=1920
 [Containments][81][General]
 AppletOrder=82;83;84
 
+[Containments][87]
+activityId=ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+screenMapping=desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab

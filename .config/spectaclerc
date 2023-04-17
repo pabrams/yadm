@@ -2,10 +2,8 @@
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
 [GuiConfig]
-captureMode=5
-cropRegion=347,100,604,916
 quitAfterSaveCopyExport=true
-window-position=145,32
+window-position=113,-150
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Pictures/primary and secondary colors.png,file:$HOME/repos/pabrams.github.io/img/body_20230325_023704.png,file:$HOME/repos/pabrams.github.io/img/Screenshot_20230324_020727.png,file:$HOME/Pictures/20230323_192716.png,file:$HOME/Pictures/tw2002-Screenshot_20230313_193950.png
