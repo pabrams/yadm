@@ -1,6 +1,9 @@
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
+[CompactMode]
+PreviewSize=22
+
 [ExtractDialog]
 1920x1080 screen: Height=560
 1920x1080 screen: Width=1280

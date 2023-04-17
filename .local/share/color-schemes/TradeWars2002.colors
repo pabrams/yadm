@@ -14,7 +14,7 @@ ColorAmount=0.025000000000000001
 ColorEffect=2
 ContrastAmount=0.10000000000000001
 ContrastEffect=2
-Enable=false
+Enable=true
 IntensityAmount=0
 IntensityEffect=0
 
@@ -117,9 +117,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=0,85,85
+activeBackground=0,0,255
 activeBlend=0,0,85
-activeForeground=0,255,0
+activeForeground=0,0,255
 inactiveBackground=0,0,85
 inactiveBlend=85,85,0
 inactiveForeground=0,85,0
