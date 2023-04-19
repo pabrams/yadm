@@ -118,7 +118,7 @@ DirSelectDialog Size=844,598
 [General]
 AccentColor=0,0,0,0
 BrowserApplication=firefox.desktop
-ColorSchemeHash=6ce566e3d7a31ee08519e38ba36e5827cfae5a52
+ColorSchemeHash=7e52c803ac1b666f8723ca058a38d4233c1e81c4
 LastUsedCustomAccentColor=255,0,0
 TerminalApplication=hyper
 TerminalService=hyper.desktop
