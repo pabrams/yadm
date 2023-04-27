@@ -2,17 +2,25 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=yad
+count=1
 
 [Session: saved at previous logout]
-clientId1=10aca37ea0000168165301100000008900005
-clientId2=10aca37ea0000168163249100000008280007
-count=2
+clientId1=10aca37ea0000168229353600000032090004
+clientId2=10aca37ea0000168229355000000032090007
+clientId3=10aca37ea0000168229758200000032090009
+count=3
+discardCommand3[$e]=rm,$HOME/.config/session/systemsettings_10aca37ea0000168229758200000032090009_1682300708_407976
 program1=/usr/bin/firewall-applet
 program2=firefox
-restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000168165301100000008900005_1681653074_996406,-name,firewall-applet
-restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10aca37ea0000168163249100000008280007
+program3=/usr/bin/systemsettings5
+restartCommand1=/usr/bin/firewall-applet,-session,10aca37ea0000168229353600000032090004_1682300708_406955,-name,firewall-applet
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10aca37ea0000168229355000000032090007
+restartCommand3=/usr/bin/systemsettings5,-session,10aca37ea0000168229758200000032090009_1682300708_407976,-name,systemsettings5
 restartStyleHint1=0
 restartStyleHint2=0
+restartStyleHint3=0
 userId1=i
 userId2=i
+userId3=i

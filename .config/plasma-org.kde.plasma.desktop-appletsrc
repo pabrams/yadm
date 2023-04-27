@@ -28,7 +28,7 @@ PreloadWeight=0
 ToolBoxButtonState=bottom
 ToolBoxButtonX=739
 ToolBoxButtonY=983
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/steam.desktop"\\,"0"\\,"2"\\,"desktop:/Inkscape-b0a8486-x86_64.AppImage"\\,"0"\\,"0"\\,"desktop:/Obsidian-1.1.16.AppImage"\\,"0"\\,"1"]}
 sortMode=-1
 
 [Containments][59]
@@ -325,6 +325,15 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][88]
+activityId=ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+formfactor=0
+immutability=1
+lastScreen=2
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
+screenMapping=desktop:/Inkscape-b0a8486-x86_64.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/steam.desktop,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab,desktop:/Obsidian-1.1.16.AppImage,0,ff629bff-e4b6-4cf8-9041-a7a7272fd3ab
